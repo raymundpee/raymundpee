@@ -5,7 +5,6 @@
 I’ve been working as an **Appian Developer for 5 years**, delivering enterprise-grade low-code automation solutions. Recently, I started my journey into **native programming languages** and expanding my skills into core IT fundamentals. This GitHub will serve as my space to **learn, build, and share** projects along the way.  
 
 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/rrpee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -37,11 +36,15 @@ I’ve been working as an **Appian Developer for 5 years**, delivering enterpris
 
 ## 🌱 Learning Journey  
 
-I believe in *continuous learning*. Since my background is in **Appian**, I’m transitioning into:  
-- Core Programming Concepts (variables, loops, data structures)  
-- Backend Development basics  
-- API fundamentals  
-- Cloud & DevOps (later on 🚀)  
+I believe in *continuous learning*. My roadmap is structured into key areas of growth:  
+
+- **Core Computer and Programming**  
+- **Data Structure and Algorithm**  
+- **Database and Networking**  
+- **Web Development and API Security**  
+- **Software Design and Architecture**  
+- **Cloud & DevOps**  
+- **Master Deep Learning and Break into AI**  
 
 ---
 
